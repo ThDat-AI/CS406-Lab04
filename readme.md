@@ -5,15 +5,15 @@
 ## 🚀 Cài đặt & Chạy
 
 ### 1. Cài đặt Dependencies
-\\\bash
+```bash
 cd Website
 pip install -r requirements.txt
-\\\
+```
 
 ### 2. Chạy Ứng Dụng
-\\\bash
+```bash
 streamlit run app.py
-\\\
+```
 
 Ứng dụng sẽ mở trên browser tại `http://localhost:8501`
 
