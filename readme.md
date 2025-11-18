@@ -1,6 +1,6 @@
 # AI Model Comparison Demo - Streamlit App
 
-Ứng dụng Streamlit để demo và so sánh hai model AI: **MobileNet2**, **VGG16**, **ResNet50**
+Ứng dụng Streamlit để demo và so sánh 3 model AI: **MobileNet2**, **VGG16**, **ResNet50**
 
 ## 🚀 Cài đặt & Chạy
 
